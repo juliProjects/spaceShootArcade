@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\enemyScript.cs">
+    <Files>
+      <File FileName="Assets\space1.cs" Line="27" Column="4" />
+      <File FileName="Assets\bullet1.cs" Line="1" Column="1" />
+      <File FileName="Assets\enemyScript.cs" Line="45" Column="24" />
+      <File FileName="Assets\particleScript.cs" Line="26" Column="1" />
+      <File FileName="Assets\spawnScript.cs" Line="8" Column="23" />
+      <File FileName="Assets\spawnCoinScript.cs" Line="13" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
